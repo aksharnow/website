@@ -64,8 +64,11 @@ img{
 
 .product{
     background: white;
-    margin: 16px;
-    width: 200px;
+    //margin: 16px;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    padding-top: 50%;
     border-radius: 2px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
